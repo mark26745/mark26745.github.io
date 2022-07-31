@@ -14,7 +14,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Mark Ngugi
     subtitle: "Tech junkie. Music Enjoyer"
-    imageUrl: "/images/Profile.jpg"
+    imageUrl: "/nmugi.github.io/images/Profile.jpg"
     imageTitle: Profile Pic
 
   socialIcons:
