@@ -1,13 +1,11 @@
-baseURL: "https://nmugi.github.io/"
+baseURL: "https://mark26745.github.io/nmugi.github.io/"
 title: About Me
 theme: PaperMod
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Portfolio"
   keywords: [Portfolio, PaperMod]
   author: Mark Ngugi
-  DateFormat: "January 2, 2006"
   defaultTheme: dark 
   disableThemeToggle: false
 
@@ -22,6 +20,6 @@ params:
   socialIcons:
     - name: Linkedin
       url: "https://www.linkedin.com/in/mark-ngugi-422187208/"
-    - name: github
+    - name: Github
       url: "https://github.com/"
 
