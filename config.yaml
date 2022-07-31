@@ -1,0 +1,27 @@
+baseURL: "https://nmugi.github.io/"
+title: About Me
+theme: PaperMod
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Portfolio"
+  keywords: [Portfolio, PaperMod]
+  author: Mark Ngugi
+  DateFormat: "January 2, 2006"
+  defaultTheme: dark 
+  disableThemeToggle: false
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Mark Ngugi
+    subtitle: "Tech junkie. Music Enjoyer"
+    imageUrl: "/images/Profile.jpg"
+    imageTitle: Profile Pic
+
+  socialIcons:
+    - name: Linkedin
+      url: "https://www.linkedin.com/in/mark-ngugi-422187208/"
+    - name: github
+      url: "https://github.com/"
+
