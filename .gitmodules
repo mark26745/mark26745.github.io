@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:mark26745/nmugi.github.io.git
-	branch = main
+	branch = gh-pages 
