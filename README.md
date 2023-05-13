@@ -1,2 +1,2 @@
 # mark26475.github.io
-This is a profile made using Hugo
+This is a portfolio page made using Hugo
