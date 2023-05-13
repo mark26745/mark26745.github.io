@@ -14,7 +14,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Mark Ngugi
     subtitle: "Tech junkie. Music Enjoyer"
-    imageUrl: "/images/Profile.jpg"
+    imageUrl: "/images/Profile.webp"
     imageTitle: Profile Pic
 
   socialIcons:
